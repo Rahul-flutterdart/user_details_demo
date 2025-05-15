@@ -1,2 +1,30 @@
-# user_details_demo
-UserdetailsDemo is a cross-platform mobile application built with Flutter that showcases user management with smooth UI and persistent local storage. The app uses Provider for efficient state management and Hive for lightweight, NoSQL data storage on the device.  Key features include listing users, viewing detailed user profiles, and seamless data.
+# UserdetailsDemo App
+
+A Flutter application demonstrating user management, state management with Provider, and local data persistence using Hive. The app supports Android and iOS platforms and includes unit and widget tests.
+
+---
+
+## Features
+
+- User listing and details
+- Persistent local storage with Hive
+- Provider for state management
+- Cross-platform UI (Android & iOS)
+- Unit and widget tests included
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK (version 3.21 or higher)
+- Android Studio or VS Code with Flutter & Dart plugins
+- Xcode (macOS only, for iOS development)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rahul-flutterdart/user_details_demo.git
+   cd user_details_demo
