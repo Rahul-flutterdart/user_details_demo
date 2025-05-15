@@ -1,0 +1,4 @@
+#Thu May 15 21:06:57 IST 2025
+base.0=/Users/rahulsingh/StudioProjects/flutterdemo/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
